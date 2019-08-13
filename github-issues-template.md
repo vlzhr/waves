@@ -1,6 +1,6 @@
 # Bug issue template
 
-<code>
+>
 **Describe the bug**
 A clear and concise description of what the bug is.
 
@@ -29,7 +29,7 @@ Add any other context about the problem here.
 
 # Feature issue template
 
-<code>
+>
 name: Feature request
 about: Suggest an idea for this project
 title: "[FEATURE]"
