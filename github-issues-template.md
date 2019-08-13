@@ -1,6 +1,6 @@
 # Bug issue template
 
->
+```
 **Describe the bug**
 A clear and concise description of what the bug is.
 
@@ -24,12 +24,12 @@ If applicable, add screenshots to help explain your problem.
 
 **Additional context**
 Add any other context about the problem here.
-</code>
+```
 
 
 # Feature issue template
 
->
+```
 name: Feature request
 about: Suggest an idea for this project
 title: "[FEATURE]"
@@ -53,3 +53,4 @@ Can your proposition affect any existing features?
 **Examples and Implementation**
 Examples of implementation in other projects?
 </code>
+```
