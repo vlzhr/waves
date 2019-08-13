@@ -30,14 +30,6 @@ Add any other context about the problem here.
 # Feature issue template
 
 ```
-name: Feature request
-about: Suggest an idea for this project
-title: "[FEATURE]"
-labels: feature
-assignees: ''
-
-## Body
-
 **Аbstract**
 Is your feature request related to a problem? Please describe.
 
