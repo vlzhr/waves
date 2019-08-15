@@ -44,5 +44,4 @@ Can your proposition affect any existing features?
 
 **Examples and Implementation**
 Examples of implementation in other projects?
-</code>
 ```
